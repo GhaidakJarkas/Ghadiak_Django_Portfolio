@@ -24,3 +24,5 @@ The first tutorial's goal was to get familiar with the fundamental concepts of D
 8-Crispy forms.
 
 9- Pagination.
+
+![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/Portfolio.JPG)
