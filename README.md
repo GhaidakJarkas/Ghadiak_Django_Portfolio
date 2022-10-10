@@ -2,7 +2,7 @@
 My journey in learning and mastering the Django framework.
 
 
-# [Project 1: First Django toturial (Blog website)](https://github.com/GhaidakJarkas/First_Django_toturial).
+# [Project 1: First Django tutorial (Blog website)](https://github.com/GhaidakJarkas/First_Django_toturial).
 
 ## Objectives:
 The first tutorial's goal was to get familiar with the fundamental concepts of Django in the "Learning by practicing " manner. [This](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) link shows the course that was followed on Youtube, which covers the following concepts:
