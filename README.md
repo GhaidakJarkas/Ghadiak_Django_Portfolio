@@ -69,3 +69,13 @@ Two courses on Coursera platform to cover advanced concepts in Django framework 
 3- Add functionality with serializers, viewsets, routers, authentication, and permissions.
 
 ![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/CB2.JPG)
+
+# [Project 4: Simple TO DO app.](https://github.com/GhaidakJarkas/Simple-TODO)
+
+## Objectives:
+
+1- Practicing Django concepts.
+
+2- Practicing CRUD.
+
+![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/todo.jpg)
