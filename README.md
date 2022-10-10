@@ -79,3 +79,20 @@ Two courses on Coursera platform to cover advanced concepts in Django framework 
 2- Practicing CRUD.
 
 ![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/todo.jpg)
+
+
+# [Project 5: E-Commerce website.](https://github.com/GhaidakJarkas/E-commerce)
+
+## Objectives:
+
+1- Add to cart.
+
+2- Payment.
+
+3- Shipping.
+
+4- Anonymous user order using cookies.
+
+5- Javascript.
+
+![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/ecommerce.jpg)
