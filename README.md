@@ -43,3 +43,29 @@ I Followed this course which is provided from university of Michigan on Coursera
 4- Using Javascript, jQuery and Json in Django.
 
 ![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/C.JPG)
+
+# [Project 3: Blango (Advanced Django: Building a Blog, Django Rest framework).](https://github.com/GhaidakJarkas/blango)
+
+## Overview
+
+Two courses on Coursera platform to cover advanced concepts in Django framework and Django Rest Framework as the following:
+
+### Building a Blog:
+
+1- Create custom filters and templates.
+
+2- Optimize performance through caching and optimizing database operations.
+
+3- Authenticate users with Google.
+
+![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/CB1.JPG)
+
+### Advanced Django: Introduction to Django Rest Framework:
+
+1- Build an API with Django Rest Framework.
+
+2- Use Postman to explore the API.
+
+3- Add functionality with serializers, viewsets, routers, authentication, and permissions.
+
+![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/CB2.JPG)
