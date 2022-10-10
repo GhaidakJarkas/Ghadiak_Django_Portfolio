@@ -26,3 +26,20 @@ The first tutorial's goal was to get familiar with the fundamental concepts of D
 9- Pagination.
 
 ![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/Portfolio.JPG)
+
+
+# Project 2: Django for Everybody Course (University of Michigan).
+
+## Overview:
+
+I Followed this course which is provided from university of Michigan on Coursera paltform to get familiar with the fundamental concepts of The Django framework in an acadmic way, it is a specialization consists of four courses that covers the following concepts:
+
+1- Web application technologies and Django.
+
+2- Building web application in Django.
+
+3- Django features and libraries.
+
+4- Using Javascript, jQuery and Json in Django.
+
+![](https://github.com/GhaidakJarkas/Ghadiak_Django_Portfolio/blob/main/images/C.JPG)
